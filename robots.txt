@@ -1,0 +1,17 @@
+User-agent: Yandex
+Allow: /
+
+User-agent: Yandex
+Allow: /page
+Sitemap: http://makra.ru/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Host: makra.ru
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot
+Allow: /page
+Sitemap: http://makra.ru/sitemap.xml

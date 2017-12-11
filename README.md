@@ -1,2 +1,0 @@
-# mankra
-Mankra onepager
